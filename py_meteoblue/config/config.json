@@ -1,0 +1,11 @@
+
+{
+  "package": "basic-day",
+  "apikey": "41f2dd49fb6a",
+  "lat": -30.1679,
+  "lon": -70.8057,
+  "asl": 2187,
+  "tz": "Europe%2FZurich",
+  "city": "Basel",
+  "format": "csv"
+}
